@@ -1,0 +1,6 @@
+{
+  "uuid": "%uuid%",
+  "name": "AntiChatban",
+  "mainClass": "net.labymod.addons.antichatban.shinyu.AntiChatbanAddon"
+
+}
